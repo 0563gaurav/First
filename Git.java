@@ -8,6 +8,7 @@ public class Git {
 		}
 		
 		System.out.println("i made somechanges in git.java class");
+		System.out.println("switched to dev branch ");
 	}
 
 }
