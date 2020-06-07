@@ -6,6 +6,7 @@ public class Index {
 		System.out.println("i am coding...");
 		
 		System.out.println("changed in index.java");
+		System.out.println("switched to dev...");
 	}
 	
 
